@@ -1,2 +1,3 @@
 Hello git
 This is my second change.
+Changed on new-feature branch.
